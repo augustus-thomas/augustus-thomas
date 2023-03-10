@@ -1,9 +1,11 @@
-- I’m @augustus-thomas, currently attending the College of Wooster. I am a declared BA in Physics, but am looking to break into Computer Science and Mathematics.
-- I’m also interested in philosophy and poltical philosophy. I read alot of science fiction in my off time. 
-- I’m currently using Jekyll to build a personal blog and teaching myself CLI utilities in the process. I am also learning through the freeCodeCamp's platform.  
-- I’m looking to collaborate on open source information and data science projects. Long term I would like to achieve an MS in Electrical Engineering and get into embedded systems architecture. Short term I would like to get involved in chemical physics research (particularly Dr. Niklas Manz' B-Z reaction studies) which in my view implicate a new paradigm for computing. 
+- I’m @augustus-thomas, currently attending the College of Wooster. I am a declared BA in Physics and Computer Science double major.
+- I am working in [The College of Wooster Wavelab](https://wavelab.spaces.wooster.edu/) on an [Electron Drift Veloctiy Analogue](https://wavelab.spaces.wooster.edu/electron-drift-velocity-analogue/). When we get good results it woud be fun to publish in AIP's Physics of Fluids!
+- I’m also interested in philosophy. I am reading "Given Time 1. Counterfeit Money." I am generally interested in the applications of Physics and Computers for the betterment of society, and the analysis of cybernetic systems as fundamentally social.
+- I’m currently playing around with ArchLinux config files - hopefully accidentally learning about Linux and its CLI and scripting in the process. I'm (exclusively) running an i3 EndeavorOS setup on an old MacBook. Did you know I cant boot MacOS on my machine anymore because Apple Mac (TM) doesnt let you dual boot on its machines? Do I even own this machine if I cant boot whatever software I want on it???? *sigh*
+- Im looking to collaborate on open source information and data science projects. Aaron Swartz and Snowden and everyone else were right. Even the hacktivists. So too was [Robert Ochigame](https://logicmag.io/care/informatics-of-the-oppressed/). 
+- Long term I would like to achieve an MS in Electrical Engineering and get into embedded systems architecture. Building non-standard computaional machines for non-standard people might be my life's work (we'll see)
 - You can reach me at augustusrthomas@gmail.com or gthomas25@wooster.edu.
-- Every repository I publish here implicitly uses the MIT license if not specified. 
+- Every repository I publish here implicitly uses the GNU Public License (GPL) if not specified. Copy the source, paste it, compile it into little bits, screw them up, hack it, deploy it however you like. 
 
 <!---
 augustus-thomas/augustus-thomas is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
