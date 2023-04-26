@@ -1,3 +1,14 @@
+# I'm Augustus.
+
+
+![!](https://komarev.com/ghpvc/?username=augustus-thomas&color=brightgreen)
+
+
+![Augustus's GitHub stats](https://github-readme-stats.vercel.app/api?username=augustus-thomas&show_icons=true&count_private=true&include_all_commits=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=augustus-thomas&layout=compact)](https://github.com/augustus-thomas)
+
+
+
 - I’m @augustus-thomas, currently attending the College of Wooster. I am a declared BA in Physics and Computer Science double major.
 - I am working in [The College of Wooster Wavelab](https://wavelab.spaces.wooster.edu/) on an [Electron Drift Veloctiy Analogue](https://wavelab.spaces.wooster.edu/electron-drift-velocity-analogue/). When we get good results it woud be fun to publish in AIP's Physics of Fluids!
 - I’m also interested in philosophy. I am generally interested in the applications of Physics and Computers for the betterment of society, and the analysis of cybernetic systems as fundamentally social.
