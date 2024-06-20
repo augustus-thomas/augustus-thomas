@@ -1,6 +1,7 @@
 # I'm Augustus or Gus
 ## Who am I?
-- I’m @augustus-thomas, current undergrad at the College of Wooster. I am a double major in Physics and Computer Science. I've done research in a lab, and I write Physics simulations. 
+- I’m @augustus-thomas, current undergrad at the College of Wooster. I am a double major in Physics and Computer Science. I've done research in a lab, and I write Physics simulations.
+- I am currently working on dynamically slimmable anytime prediction for a linear regression neural network. The goal will be do to floating point prediction under size, power, and time constraints. Imagine a linear NN with an arbitrary "selection window" of active nodes, with control in the x and y "directions" of the network. That is what I am building.
 - I have worked in [The College of Wooster Wavelab](https://wavelab.spaces.wooster.edu/) on an [Electron Drift Velocitiy Analogue](https://doi.org/10.13140/RG.2.2.29465.84323) funded by an NSF-REU grant. I presented a poster at APS March 2024, and I have plans to submit to AIP's Physics of Fluids journal later in 2024.
 - I'd like to collaborate on open source information and data science projects, particularly ones with a compelling social impact.
 - Swartz, Snowden, Manning and everyone else were right in their view that access to information is the key to a free society. So too was [Robert Ochigame](https://logicmag.io/care/informatics-of-the-oppressed/). I think programmers collectively wield the most powerful tool ever built, and we should be opinionated about what we do with it.
